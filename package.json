@@ -29,7 +29,7 @@
     "@ionic/angular": "^4.4.2",
     "angular-progress-bar": "^1.0.9",
     "angular-svg-round-progressbar": "^2.0.0",
-    "cordova-android": "7.0.0",
+    "cordova-android": "9.1.0",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-insomnia": "^4.3.0",
     "cordova-plugin-ionic-keyboard": "^2.1.3",
